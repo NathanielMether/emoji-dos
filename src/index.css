@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+  padding: 1rem;
+  font-size: 20px; 
+}
+
+input {
+  font-size: 1rem;
+}
+
+label {
+  display: block;
+}
+
+button {
+  border: none;
+  background: transparent;
+}
